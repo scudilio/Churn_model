@@ -5,7 +5,7 @@ Autor: Juliana Scudilio
 
 Linguagem: Python
 
-# Introdução
+## Introdução
 Empresas que utilizam data driven maximizam seus resultados através de informações extraídas dos dados. Ou seja, utilizam os dados para transformar em informações e as informações para tomar decisões.
 
 "Seus clientes mais insatisfeitos são sua maior fonte de aprendizado (Bill Gates)."
@@ -14,11 +14,10 @@ A taxa de retenção de clientes é um bom indicativo de qualidade do seu produt
 
 Mas quais são as características que leva um cliente a dar o Churn?
 
-Na parte I desse tutorial já entendemos o problema de Churn e estabelecemos o objetivo, identificar o perfil e prever os clientes em risco de Churn.
+O objetivo é identificar o perfil dos clientes que cancelaram o contrato e prever os clientes em risco de Churn.
 
-Agora nessa parte II daremos continuidade a análise e para isso utilizaremos um conjunto de dados de uma agência bancária.
 
-Recordando, para esse projeto de Data Science seguiremos essas etapas
+Para esse projeto de Data Science seguiremos essas etapas
 
 * Entedimento do Problema
 * Obtenção dos dados
@@ -26,3 +25,11 @@ Recordando, para esse projeto de Data Science seguiremos essas etapas
 * Pré-processamento
 * Modelos de Machine Learning
 * Avaliação do modelo
+
+
+## Arquivos
+
+Parte I: arquivo pdf sobre o problema de Churn em empresas e seus impactos
+Parte II: Análise exploratória dos dados para entender os principais fatores que levam o Churn do cliente
+Parte II: Construção do modelo de Churn, utilizamos técnicas de aprendizado supervisionado e os algoritmos KNN, Random Forest e XGBoost. No final utilizamos a técnica Ensemble para combinar os melhores modelos e prever os clientes em Churn.
+
