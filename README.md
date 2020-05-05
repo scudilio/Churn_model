@@ -5,7 +5,7 @@ Autor: Juliana Scudilio
 
 Linguagem: Python
 
-#Introdução
+# Introdução
 Empresas que utilizam data driven maximizam seus resultados através de informações extraídas dos dados. Ou seja, utilizam os dados para transformar em informações e as informações para tomar decisões.
 
 "Seus clientes mais insatisfeitos são sua maior fonte de aprendizado (Bill Gates)."
@@ -20,9 +20,9 @@ Agora nessa parte II daremos continuidade a análise e para isso utilizaremos um
 
 Recordando, para esse projeto de Data Science seguiremos essas etapas
 
-*Entedimento do Problema
-*Obtenção dos dados
-*Análise Exploratória dos dados
-*Pré-processamento
-*Modelos de Machine Learning
-*Avaliação do modelo
+* Entedimento do Problema
+* Obtenção dos dados
+* Análise Exploratória dos dados
+* Pré-processamento
+* Modelos de Machine Learning
+* Avaliação do modelo
