@@ -29,7 +29,9 @@ Para esse projeto de Data Science seguiremos essas etapas
 
 ## Arquivos
 
-Parte I: arquivo pdf sobre o problema de Churn em empresas e seus impactos
-Parte II: Análise exploratória dos dados para entender os principais fatores que levam o Churn do cliente
+Parte I: arquivo pdf sobre o problema de Churn em empresas e seus impactos.
+
+Parte II: Análise exploratória dos dados para entender os principais fatores que levam o Churn do cliente.
+
 Parte II: Construção do modelo de Churn, utilizamos técnicas de aprendizado supervisionado e os algoritmos KNN, Random Forest e XGBoost. No final utilizamos a técnica Ensemble para combinar os melhores modelos e prever os clientes em Churn.
 
