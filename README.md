@@ -1,4 +1,4 @@
-# Churn_model
+# Modelo de Machine Learning para Churn
 Tutorial de como implementar um modelo de Churn
 
 Autor: Juliana Scudilio
