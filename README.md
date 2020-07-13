@@ -6,7 +6,7 @@ Autor: Juliana Scudilio
 Linguagem: Python
 
 ## Introdução
-Empresas que utilizam data driven maximizam seus resultados através de informações extraídas dos dados. Ou seja, utilizam os dados para transformar em informações e as informações para tomar decisões.
+Empresas que utilizam data driven maximizam seus resultados através de informações extraídas dos dados. Ou seja, utilizam os dados para extrair informações e usam as informações para tomar decisões.
 
 "Seus clientes mais insatisfeitos são sua maior fonte de aprendizado (Bill Gates)."
 
@@ -19,7 +19,7 @@ O objetivo desse artigo é identificar o perfil dos clientes que cancelaram o co
 
 Para esse projeto de Data Science seguiremos essas etapas
 
-* Entedimento do Problema
+* Entendimento do Problema
 * Obtenção dos dados
 * Análise Exploratória dos dados
 * Pré-processamento
