@@ -1,5 +1,5 @@
 # Churn_model
-Tutoria de como implementar um modelo de Churn
+Tutorial de como implementar um modelo de Churn
 
 Autor: Juliana Scudilio
 
@@ -14,7 +14,7 @@ A taxa de retenção de clientes é um bom indicativo de qualidade do seu produt
 
 Mas quais são as características que leva um cliente a dar o Churn?
 
-O objetivo é identificar o perfil dos clientes que cancelaram o contrato e prever os clientes em risco de Churn.
+O objetivo desse artigo é identificar o perfil dos clientes que cancelaram o contrato de uma agência financeira e também construir um modelo de Machine Learning para identificar os clientes em risco de Churn.
 
 
 Para esse projeto de Data Science seguiremos essas etapas
